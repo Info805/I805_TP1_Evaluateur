@@ -1,3 +1,4 @@
+/** Debut **/
 12 + 5; 		/* ceci est un commentaire */
 10 / 2 - 3;  99; 	/* le point-virgule separe les expressions à évaluer */
 /* l'évaluation donne toujours un nombre entier */
